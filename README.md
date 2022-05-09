@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmytro Turovskyi
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning html, css, JavaScript, React, Node JS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node JS
 - 💞️ I'm looking to work on interesting web projects
 - 📫 How to reach me: here is my telegram https://t.me/M14man
 
